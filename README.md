@@ -1,2 +1,4 @@
 # lan_Remote_Desktop_Connection
-Remote desktop connetion utility for local area network
+This is a remote desktop connetion utility for local area network.
+It was biult with the help of GPT-3.5 and https://adamtheautomator.com,
+to make an easier and more effective way for IT stuff to work. 
